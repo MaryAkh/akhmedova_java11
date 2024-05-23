@@ -1,0 +1,11 @@
+.gradle
+/build/
+/gradle/
+/.idea
+/.gradle_cache/
+/out/
+/data/
+*.iml
+*.log
+gradlew.bat
+gradlew
